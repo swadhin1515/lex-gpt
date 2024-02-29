@@ -2,7 +2,7 @@ repo_name: swadhin1515/lex-gpt
 report_id: c18ade09e50e272bf77ded901d4df20f
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-05T08:59:16+00:00'
+timestamp: '2024-02-29T18:28:59+00:00'
 requested_by: rlancemartin
 provider: github
 branch: main
@@ -64,7 +64,7 @@ tools:
   last_updated_by: rlm
   last_updated_on: 2023-03-14 00:52:04.000000000 Z
 - name: Next.js
-  description: 'A small framework for server-rendered universal JavaScript apps '
+  description: A small framework for server-rendered universal JavaScript apps
   website_url: https://nextjs.org/
   version: 13.2.1
   open_source: true
